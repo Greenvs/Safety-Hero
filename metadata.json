@@ -1,0 +1,5 @@
+{
+  "name": "SafetyHero: K3 Training",
+  "description": "A gamified K3 (OHS) training application featuring hazard simulations, leveling, badges, and automated certification powered by Gemini AI.",
+  "requestFramePermissions": []
+}
